@@ -156,20 +156,6 @@ I build production AI systems — not demos. Over the past two years I've shippe
 <table width="100%">
 <tr><td>
 
-**AI Voice Agent — Marketing**
-<br/><br/>
-A standalone conversational voice agent built for marketing/outreach use cases — handles live call conversations for campaigns and lead engagement.
-<br/><br/>
-**Stack:** Python · FastAPI · OpenAI/Claude · Telephony API
-<br/>
-**Problem solved:** Automates outbound/inbound marketing conversations without a human needing to be on the line.
-<br/><br/>
-<!-- REPLACE: add real repo/demo link -->
-[View Project →](#)
-
-</td></tr>
-<tr><td>
-
 **AI Voice Agent — HVAC**
 <br/><br/>
 A voice-agent product for the HVAC industry, built as two connected pieces:
@@ -181,8 +167,7 @@ A voice-agent product for the HVAC industry, built as two connected pieces:
 <br/>
 **Problem solved:** Gives an HVAC business a phone-answering agent prospects can test themselves, plus a dashboard to monitor and manage it.
 <br/><br/>
-<!-- REPLACE: add your live demo link -->
-[Try the Live Demo →](#)
+[Try the Live Demo →](https://hvac-landing-page-eight.vercel.app/)
 
 </td></tr>
 <tr><td>
@@ -204,16 +189,7 @@ An AI-powered app that automates the content behind a regular newsletter, cuttin
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mehroz27&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="Mehroz27's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehroz27&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages" height="165"/>
-
-</div>
-
-<br/>
+### Activity
 
 <div align="center">
 
