@@ -1,21 +1,20 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#05070d"/>
-      <stop offset="55%" stop-color="#0a0f1e"/>
-      <stop offset="100%" stop-color="#050608"/>
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
     <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#3fd7ff" stop-opacity="0.55"/>
-      <stop offset="55%" stop-color="#3fd7ff" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#3fd7ff" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.40"/>
+      <stop offset="55%" stop-color="#6366f1" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="accentText" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3fd7ff"/>
-      <stop offset="100%" stop-color="#7c8cff"/>
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#6366f1"/>
     </linearGradient>
     <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
-      <path d="M 46 0 L 0 0 0 46" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+      <path d="M 46 0 L 0 0 0 46" fill="none" stroke="#ffffff" stroke-opacity="0.025" stroke-width="1"/>
     </pattern>
   </defs>
 
@@ -23,10 +22,10 @@
   <rect width="1200" height="320" fill="url(#grid)"/>
 
   <circle cx="980" cy="90" r="220" fill="url(#orb)">
-    <animate attributeName="r" values="210;230;210" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="210;228;210" dur="7s" repeatCount="indefinite"/>
   </circle>
 
-  <g stroke="#3fd7ff" stroke-opacity="0.28" stroke-width="1">
+  <g stroke="#6366f1" stroke-opacity="0.22" stroke-width="1">
     <line x1="860" y1="60" x2="960" y2="120"/>
     <line x1="960" y1="120" x2="1080" y2="70"/>
     <line x1="960" y1="120" x2="1010" y2="210"/>
@@ -35,26 +34,26 @@
     <line x1="820" y1="150" x2="900" y2="230"/>
     <line x1="1080" y1="70" x2="1150" y2="140"/>
   </g>
-  <g fill="#3fd7ff">
-    <circle cx="860" cy="60" r="3.5"/>
-    <circle cx="960" cy="120" r="4.5"/>
-    <circle cx="1080" cy="70" r="3"/>
-    <circle cx="1010" cy="210" r="3.5"/>
-    <circle cx="1120" cy="180" r="3"/>
-    <circle cx="820" cy="150" r="3"/>
-    <circle cx="900" cy="230" r="3"/>
-    <circle cx="1150" cy="140" r="2.5"/>
+  <g fill="#818cf8">
+    <circle cx="860" cy="60" r="3"/>
+    <circle cx="960" cy="120" r="4"/>
+    <circle cx="1080" cy="70" r="2.6"/>
+    <circle cx="1010" cy="210" r="3"/>
+    <circle cx="1120" cy="180" r="2.6"/>
+    <circle cx="820" cy="150" r="2.6"/>
+    <circle cx="900" cy="230" r="2.6"/>
+    <circle cx="1150" cy="140" r="2.2"/>
   </g>
 
-  <line x1="70" y1="270" x2="1130" y2="270" stroke="url(#accentText)" stroke-opacity="0.35" stroke-width="1"/>
+  <line x1="70" y1="270" x2="1130" y2="270" stroke="#30363d" stroke-width="1"/>
 
-  <text x="70" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#f3f6fb">
+  <text x="70" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#e6edf3">
     Muhammad Mehroz Mustafa
   </text>
   <text x="70" y="185" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="url(#accentText)">
     AI Engineer
   </text>
-  <text x="70" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9aa7bd">
+  <text x="70" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#8b949e">
     Building production-ready AI systems, voice agents &amp; workflow automations
   </text>
 </svg>
