@@ -157,30 +157,30 @@ I build production AI systems — not demos. Over the past two years I've shippe
 <tr><td>
 
 **AI Voice Agent — HVAC**
-<br/><br/>
+
 A voice-agent product for the HVAC industry, built as two connected pieces:
-<br/>
+
 - **Landing page** — public demo where visitors can call in and talk to the agent live
 - **Dashboard** — internal panel for monitoring calls, reviewing transcripts, and configuring the agent
-<br/>
+
 **Stack:** Next.js · Tailwind · Python · FastAPI · OpenAI/Claude · Telephony API · Supabase
-<br/>
+
 **Problem solved:** Gives an HVAC business a phone-answering agent prospects can test themselves, plus a dashboard to monitor and manage it.
-<br/><br/>
+
 [Try the Live Demo →](https://hvac-landing-page-eight.vercel.app/)
 
 </td></tr>
 <tr><td>
 
 **AI Newsletter App**
-<br/><br/>
+
 <!-- REPLACE: tighten this description to exactly what the app does (content generation, curation, sending, etc.) -->
 An AI-powered app that automates the content behind a regular newsletter, cutting down the manual research and writing work.
-<br/><br/>
+
 **Stack:** Next.js · OpenAI/Claude · <!-- REPLACE: confirm backend/DB used -->
-<br/>
+
 **Problem solved:** Removes the manual effort of researching and drafting newsletter content on a recurring schedule.
-<br/><br/>
+
 <!-- REPLACE: add real repo/demo link -->
 [View Project →](#)
 
