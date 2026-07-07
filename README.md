@@ -181,8 +181,7 @@ An AI-powered app that automates the content behind a regular newsletter, cuttin
 
 **Problem solved:** Removes the manual effort of researching and drafting newsletter content on a recurring schedule.
 
-<!-- REPLACE: add real repo/demo link -->
-[View Project →](#)
+[View Project →](https://github.com/Mehroz27/AI-Newsletter)
 
 </td></tr>
 </table>

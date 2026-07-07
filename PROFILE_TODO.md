@@ -1,11 +1,10 @@
 # Profile TODO
 
-GitHub username (`Mehroz27`), email, LinkedIn, and the HVAC live demo link are already wired into `README.md`.
+GitHub username (`Mehroz27`), email, LinkedIn, the HVAC live demo link, and the Newsletter repo link are already wired into `README.md`.
 What's left:
 
 ## Featured Systems section
 
-- [ ] Add a repo/demo link to `[View Project →](#)` on the **AI Newsletter App** card
 - [ ] Tighten the AI Newsletter App description to exactly what it does (content generation vs. curation vs. sending) — currently a reasonable placeholder description
 - [ ] Confirm/replace the backend & DB in the Newsletter App's tech stack line (marked with a `<!-- REPLACE -->` comment in the file)
 - [ ] Optionally add a screenshot/demo GIF to any card (drop into `/assets` and reference with `<img src="./assets/your-file.png" width="100%" />` inside the card)
