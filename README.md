@@ -17,7 +17,7 @@
 
 ### About Me
 
-I build production AI systems — not demos. Over the past two years I've shipped AI voice agents, RAG-backed knowledge assistants, and workflow automation engines that run live inside real businesses, alongside full-stack SaaS platforms that wrap those systems in usable products. My focus is turning LLMs and automation into systems that hold up under real traffic, real data, and real edge cases.
+I build production AI systems. Over the past two years I've shipped AI voice agents, RAG-backed knowledge assistants, and workflow automation engines that run live inside real businesses, alongside full-stack SaaS platforms that wrap those systems in usable products. My focus is turning LLMs and automation into systems that hold up under real traffic, real data, and real edge cases.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
